@@ -17,8 +17,8 @@
 //                          SETTINGS
 // ============================================================
 
-const char* WIFI_SSID     = "TTDSISMS";
-const char* WIFI_PASSWORD = "sagichdirnicht";
+const char* WIFI_SSID     = "Your_WIFI_SSID";
+const char* WIFI_PASSWORD = "Your_WIFI_Password";
 
 const char* NTP_SERVER      = "pool.ntp.org";
 const long  GMT_OFFSET_SEC  = 3600;  // Timezone offset (seconds)
