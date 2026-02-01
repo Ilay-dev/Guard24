@@ -7,7 +7,11 @@ I wrote it in C++ and also designed a 3D-Printed Case for the ESP32, the Button,
 The .stl and .blend files are in the "3D-Case" folder.
 
 
+![20260201_174530](https://github.com/user-attachments/assets/5cb98bae-618f-4bea-a032-b5ed04566c07)
+
+
 ### Key Functionalities
+
 
 * **mmWave Detection**: Utilizes LD2410B 24GHz radar to detect human presence.
 * **Flash Memory Logging**: Automatic storage of alarm events with precise timestamps in the internal ESP32 flash memory (LittleFS).
